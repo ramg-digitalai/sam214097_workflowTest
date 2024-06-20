@@ -1,0 +1,10 @@
+# Exported from:        http://DESKTOP-9S08TE1:5516/
+# Release version:      23.3.5
+# Date created:         Thu Jun 20 22:26:59 IST 2024
+
+---
+apiVersion: xl-release/v1
+kind: Import
+spec:
+  imports:
+  - Workflows.yaml
